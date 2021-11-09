@@ -1,0 +1,16 @@
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.csproj.AssemblyReference.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.exe
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.deps.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.runtimeconfig.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ref\ConsoleApp26.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\bin\Debug\net5.0\ConsoleApp26.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ref\ConsoleApp26.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\ConsoleApp26\ConsoleApp26\obj\Debug\net5.0\ConsoleApp26.genruntimeconfig.cache
